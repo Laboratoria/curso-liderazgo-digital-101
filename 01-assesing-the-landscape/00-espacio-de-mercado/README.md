@@ -6,10 +6,11 @@
 
 ***
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLuPcCFEHRdw65T1lVY2Hke_S4fcdWwBzk6_vwBT38TRkENLOXzjNwZvPk9JsADbHzTbtSqIn66psD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+## Presentación
+Usa este [link](https://docs.google.com/presentation/d/1-SgVghogOwuE1FGAA7nnDpkdMMB5Y0kVZOaNMW2Eyng/edit#slide=id.g38113bfa8e_0_0) para acceder a las diapositívas.
 
-[Link a la Presentación](https://docs.google.com/presentation/d/1-SgVghogOwuE1FGAA7nnDpkdMMB5Y0kVZOaNMW2Eyng/edit#slide=id.g38113bfa8e_0_0)
 
+## Contenido
 En este video hablaremos de la importancia de saber cuál es nuestro
 espacio de mercado:
 
@@ -23,6 +24,3 @@ Las cosas que se rescatan de este video son:
 	"customer journey"
 * Crear una experiencia integrada, en lugar de enfocarnos en la 
 	industria de silo
-
-
-
