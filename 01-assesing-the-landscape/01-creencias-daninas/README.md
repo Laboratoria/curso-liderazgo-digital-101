@@ -1,4 +1,4 @@
-# Espacios de Mercado y Creencias Dañinas
+# Creencias Dañinas
 
 * Tipo: `video`
 * Formato: `self-paced`
@@ -6,21 +6,12 @@
 
 ***
 
-En este video hablaremos de la importancia de saber cuál es nuestro
-espacio de mercado:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQx6EWg95Or4nVNRSg4ikKDoI-8eIW1CmKHIACBwFjILLM3r5ys7a4YK0idl0eEuA919H8-QXRVFpxr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[¿En qué espacio de mercado te encuentras?](https://www.useloom.com/share/cde507e3a27544c99696fc565d6cdfa9)
+[Link a la Presentación](https://docs.google.com/presentation/d/1z2gTlJ6pkm8P3vO4Su1rICybR2Ap7KNBLqkZ6DgIIHU/edit#slide=id.g38113bfa8e_0_56)
 
-Las cosas que se rescatan de este video son:
 
-* Value input VS value output
-* ¿Qué es lo que realmente desea el cliente?
-* Hacer un "user activity cycle", en lugar de solo enfocarse en el 
-	"customer journey"
-* Crear una experiencia integrada, en lugar de enfocarnos en la 
-	industria de silo
-
-## Creencias Dañinas: Cuando las grandes empresas se duermen en sus laureles
+## Cuando las grandes empresas se duermen en sus laureles
 
 ¿De donde viene esta frase "no te duermas en tus laureles"?
 Es lo que le decían a los atletas en Grecia, dado que al ganar sus laureles,
@@ -37,9 +28,11 @@ A continuación, veremos algunos de los casos más emblemáticos en cuanto a
 
 [Creencias Dañinas](https://www.useloom.com/share/9199424c6beb44f4a201e39b5db77235)
 
-## DATO CURIOSO
+## Dato Curioso
 
 Las disrupciones afectan otras industrias, por ejemplo el lanzamiento del iPhone
 tuvo grandes consecuencias:
 
-[cómo el iphone cambió al mundo](https://www.useloom.com/share/494a902772fd41e38089567861808b80)
+[Cómo el iphone cambió al mundo](https://www.useloom.com/share/494a902772fd41e38089567861808b80)
+
+
