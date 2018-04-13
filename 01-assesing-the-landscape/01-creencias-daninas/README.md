@@ -1,13 +1,13 @@
 # Creencias Dañinas
 
-* Tipo: `video`
+* Tipo: `presentación`
 * Formato: `self-paced`
 * Duración: `20min`
 
 ***
 
 ## Presentación
-Usa este [link](https://docs.google.com/presentation/d/1z2gTlJ6pkm8P3vO4Su1rICybR2Ap7KNBLqkZ6DgIIHU/edit#slide=id.g38113bfa8e_0_56) para acceder a las diapositívas.
+Usa este [link](https://docs.google.com/presentation/d/1z2gTlJ6pkm8P3vO4Su1rICybR2Ap7KNBLqkZ6DgIIHU/edit#slide=id.g38113bfa8e_0_56) para acceder a las diapositivas.
 
 ## Contenido
 ### Cuando las grandes empresas se duermen en sus laureles
