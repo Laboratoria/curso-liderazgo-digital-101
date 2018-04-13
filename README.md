@@ -40,11 +40,11 @@ aumentar tu base de clientes.
 
 ## Syllabus
 
-### Sesión 01: Assessing the Landscape](01-assesing-the-landscape
+### Sesión 01: Assessing the Landscape
 
-- Espacios de mercado
-- Creencias dañinas
-- Talento del futuro
+- [Espacios de mercado](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/00-espacio-de-mercado)
+- [Creencias dañinas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/01-creencias-daninas)
+- [Talento del futuro](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/02-talento-del-futuro)
 - Transformación Digital y Metodologías
 - Lean Startup: creando productos y servicios en el mundo digital
 - Las razones que hacen a digital un gran plataforma para innovar
