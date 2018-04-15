@@ -50,7 +50,7 @@ aumentar tu base de clientes.
 - [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/05-las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
 - [Las 4 estrategias para ganar en digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/06-las-4-estrategias-para-ganar-en-digital)
 
-### Sesión 02: Retos de la cultura, organización y plataforma tecnológica
+### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
 
 - [Retos en la cultura (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/00-retos-de-la-cultura)
 - [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/01-retos-en-la-estructura-organizacion) 
