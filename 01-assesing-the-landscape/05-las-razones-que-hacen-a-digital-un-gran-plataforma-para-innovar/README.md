@@ -18,3 +18,5 @@ En esta sección cubriremos los siguientes temas:
 * La relación con el cliente
 * La facilidad de colaborar con otros
 
+## Video
+[5 razones por las cuales digital es un gran recurso para innovar](https://www.useloom.com/share/6b35e6e2402c46299f21550fc8c8ce13)

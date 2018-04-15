@@ -47,8 +47,8 @@ aumentar tu base de clientes.
 - [Talento del futuro](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/02-talento-del-futuro)
 - [Transformación Digital y Metodologías](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/03-transformacion-digital-y-metodologias)
 - [Lean Startup: creando productos y servicios en el mundo digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/04-lean)
-- Las razones que hacen a digital un gran plataforma para innovar
-- Las 4 estrategias para ganar en digital (principal enfoque en la estrategia de experimentación)
+- [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/05-las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
+- Las 4 estrategias para ganar en digital
 
 ### Sesión 02: Retos de la cultura, organización y plataforma tecnológica
 
