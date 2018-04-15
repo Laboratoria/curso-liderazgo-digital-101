@@ -52,19 +52,10 @@ aumentar tu base de clientes.
 
 ### Sesión 02: Retos de la cultura, organización y plataforma tecnológica
 
-- ¿Qué hacen las empresas para desarrollar una cultura y organización
-  adecuada?
-  - Caso Spotify
-- Cultura “fail-friendly” y mentalidad “agile”
-- Proyecto vs. Producto
-    - Objetivo de cada iniciativa
-    - Quien Lidera la operación
-    - Que metodología seguir
-- Estructura organizacional
-    - Eliminar dependencias
-    - Definition of Awesomeness  
+- Retos en la cultura (Caso Spotify)
+- Estructura organizacional 
 - Tecnología
-    - Democratización de la información y su importancia en la cultura de experimentación y recopilación de data.
+- Proyecto vs. Producto
 
 ### Sesión 03: Growth
 
