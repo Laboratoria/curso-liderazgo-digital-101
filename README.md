@@ -40,7 +40,7 @@ aumentar tu base de clientes.
 
 ## Syllabus
 
-### Sesión 01: Assessing the Landscape
+### Sesión 01: [Assessing the Landscape](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape)
 
 - [Espacios de mercado](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/00-espacio-de-mercado)
 - [Creencias dañinas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/01-creencias-daninas)
@@ -48,7 +48,7 @@ aumentar tu base de clientes.
 - [Transformación Digital y Metodologías](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/03-transformacion-digital-y-metodologias)
 - [Lean Startup: creando productos y servicios en el mundo digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/04-lean)
 - [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/05-las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
-- Las 4 estrategias para ganar en digital
+- [Las 4 estrategias para ganar en digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/06-las-4-estrategias-para-ganar-en-digital)
 
 ### Sesión 02: Retos de la cultura, organización y plataforma tecnológica
 
