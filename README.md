@@ -53,8 +53,8 @@ aumentar tu base de clientes.
 ### Sesión 02: Retos de la cultura, organización y plataforma tecnológica
 
 - [Retos en la cultura (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/00-retos-de-la-cultura)
-- Retos en la estructura organizacional 
-- Tecnología
+- [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/01-retos-en-la-estructura-organizacion) 
+- Retos de la plataforma tecnológica
 - Proyecto vs. Producto
 
 ### Sesión 03: Growth

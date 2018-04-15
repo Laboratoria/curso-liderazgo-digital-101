@@ -1,8 +1,8 @@
 # Retos de la cultura
 
-* Tipo: `Presentación`
+* Tipo: `presentación`
 * Formato: `self-paced`
-* Duración: `25min`
+* Duración: `20min`
 
 ***
 
