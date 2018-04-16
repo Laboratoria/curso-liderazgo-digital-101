@@ -55,11 +55,11 @@ aumentar tu base de clientes.
 - [Retos en la cultura (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/00-retos-de-la-cultura)
 - [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/01-retos-en-la-estructura-organizacion) 
 - [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/02-retos-de-la-plataforma-tecnologica)
-- [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/03-proyecto-producto)
+- [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/mater/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/03-proyecto-producto)
 
 ### Sesión 03: Growth
 
-- Métricas vanidosas
+- [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/00-metricas-vanidosas)
 - ¿Qué es un growth?
 - Márketing Tradicional vs. Growth Hacking
 - El rol del Growth Hackers en una mentalidad Lean
