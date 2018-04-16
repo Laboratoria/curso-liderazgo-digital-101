@@ -59,7 +59,7 @@ aumentar tu base de clientes.
 
 ### Sesión 03: Growth
 
-- Eliminar las métricas vanidosas
+- Métricas vanidosas
 - ¿Qué es un growth?
 - Márketing Tradicional vs. Growth Hacking
 - El rol del Growth Hackers en una mentalidad Lean
