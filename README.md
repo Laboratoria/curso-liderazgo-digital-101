@@ -62,15 +62,14 @@ aumentar tu base de clientes.
 - [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/00-metricas-vanidosas)
 - [¿Qué es growth hacking?](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/02-que-es-growth-hacking)
 - [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/03-etapas-de-crecimiento-de-un-producto-digital)
-- Lean Analytics Framework
+- [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/04-lean-analytics-framework)
 
 ***
 
 ## Facilitadores
 
 - Herman Marín: [Linkedin](https://www.linkedin.com/in/herman-marin/)
-- Rodulfo Prieto: [Linkedin](https://www.linkedin.com/in/claudiaalfaro/)
-- Claudia Alfaro: [Linkedin](https://www.linkedin.com/in/rodulfoprieto/)
+- Claudia Alfaro: [Linkedin](https://www.linkedin.com/in/claudiaalfaro/)
 
 ## Libros (mínimo 3)
 
