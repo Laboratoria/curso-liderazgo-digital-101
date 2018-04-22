@@ -61,10 +61,7 @@ aumentar tu base de clientes.
 
 - [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/00-metricas-vanidosas)
 - [¿Qué es growth hacking?](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/02-que-es-growth-hacking)
-- Etapas de crecimiento de un producto digital
-	- Problem Solution Fit
-	- Product Market Fit
-	- Pirate Metrics Funnel
+- [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/03-etapas-de-crecimiento-de-un-producto-digital)
 - Lean Analytics Framework
 
 ***
