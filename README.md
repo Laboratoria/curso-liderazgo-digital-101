@@ -60,7 +60,7 @@ aumentar tu base de clientes.
 ### Sesión 03: Growth
 
 - [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/00-metricas-vanidosas)
-- ¿Qué es growth hacking??
+- [¿Qué es growth hacking?](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/02-que-es-growth-hacking)
 - Márketing Tradicional vs. Growth Hacking
 - El rol del Growth Hackers en una mentalidad Lean
 - Etapas de crecimiento de un producto digital
