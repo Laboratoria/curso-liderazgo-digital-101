@@ -50,7 +50,7 @@ aumentar tu base de clientes.
 - [Las 4 estrategias para ganar en digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/05-las-4-estrategias-para-ganar-en-digital)
 
 **Dinámicas**
-1. Marshmallow Challenge
+1. [Marshmallow Challenge](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/dinamica-1-marshmallow-challenge)
 2. Define la Estrategias
 
 ### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)

@@ -1,6 +1,6 @@
 # Marshmallow Challenge
 
-* Tipo: `pdinámica`
+* Tipo: `dinámica`
 * Duración: `30min`
 
 ***

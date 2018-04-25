@@ -1,32 +1,18 @@
-# Las 4 estrategias para ganar en digital 
-
-* Tipo: `presentación`
-* Formato: `self-paced`
+* Tipo: `dinámica`
 * Duración: `30min`
 
 ***
 
 ## Presentación
-Usa este [link](https://docs.google.com/presentation/d/1FQCz3wIOfHEX4k16LW6yy7AlfBC1w1r7ANqdsfq9dDM/edit#slide=id.g3704730827_0_0) para acceder a las diapositivas.
+Usa este [link](https://docs.google.com/presentation/d/11wq77zr0v6720D2PCbC4lODWnunArjJ0AOolbkniCaY/edit#slide=id.g38869c417c_0_27) para acceder a las diapositivas.
 
 ## Contenido
-En esta sección cubriremos los siguientes temas:
-
-* Adoptar la experimentación: En lugar de apostar millones de 
-	dólares en soluciones que no llegan a tener tracción, los líderes 
-	de hoy están apostando por procesos de desarrollo iterativos, 
-	basados en la experimentación.
-* Open Innovation: Líderes de hoy están abiertos a poner en las 
-	manos de terceros la capacidad de crear propuestas de valor.
-* Diseño basado en data: Las empresas que ganan en digital tienen 
-	la capacidad de convertir data en conocimiento y utilizar ese 
-	conocimiento para diseñar mejores experiencias e impulsar el negocio.
-* Integración de canales: Las empresas que ganan en digital 
-	reconocen que sus usuarios exigen que la experiencia a través 
-	de canales sea consistente, integrada y fluida.
+Cómo realizar esta dinámica:
+1. Construye la torre más alta, que sea una estructura que se mantenga parada por sí sola: El equipo ganador es el que tenga la estructura más alta medida desde la base de la mesa hasta la punta del marshmallow. Eso significa que la estructura no puede estar suspendida de una estructura alta, como una silla, techo o candelabro.
+2. TODO el marshmallow debe estar en la punta: Todo el marshmallow debe estar en la punta de la estructura. Cortar o comer parte del marshmallow descalifica al equipo.
+3. Usa cuanto puedas, o lo que menos puedas del Kit: Puedes usar los 20 spaguettis o no, no tienes que usar todo el masking tape o pavilo. NO se puede usar la bolsa.
+4. Puedes romper/cortar el spaguetti, el pavilo y masking tape: Los equipos son libres de partir los spaguettis, cortar el masking tape o el pavilo para crear nuevas estructuras.
+5. El reto dura 18 minutos: Los equipos no pueden sujetar las estructuras cuando se cumpla el tiempo. Los que estén tocando o haciendo soporte a la estructura estarán descalificados.
 
 ## Video
-* [Introducción y Adoptar la experimentación](https://www.useloom.com/share/94bee9d273224ec89c5c62497b0fa202)
-* [Open innovation](https://www.useloom.com/share/9f176c2b948a4b4b8318b5cec8c31b78)
-* [Diseño basado en data](https://www.useloom.com/share/517a6902bca84a57bebed48c7b751a00)
-* [Integración entre canales](https://www.useloom.com/share/d01b726ae01a4f58a0186ae73bbf0610)
+[Video para entenderlo] (https://vimeo.com/50850884)
