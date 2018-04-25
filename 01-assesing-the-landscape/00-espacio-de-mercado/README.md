@@ -21,3 +21,8 @@ romper con los silos de su negocio para hacer un producto que se enmarca en su v
 
 ## Videos
 [¿En qué espacio de mercado te encuentras?](https://www.useloom.com/share/cde507e3a27544c99696fc565d6cdfa9)
+
+## Preguntas frecuentes
+
+**El "WHY" es lo mismo que value output**
+No el WHY está ligado al propósito de la empresa y el Value Output a lo que los clientes quieren de la empresa.
