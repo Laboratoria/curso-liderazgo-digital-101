@@ -1,6 +1,6 @@
 # Espacios de Mercado
 
-* Tipo: `video`
+* Tipo: `presentación`
 * Formato: `self-paced`
 * Duración: `20min`
 
@@ -11,16 +11,13 @@ Usa este [link](https://docs.google.com/presentation/d/1-SgVghogOwuE1FGAA7nnDpkd
 
 
 ## Contenido
-En este video hablaremos de la importancia de saber cuál es nuestro
-espacio de mercado:
-
-[¿En qué espacio de mercado te encuentras?](https://www.useloom.com/share/cde507e3a27544c99696fc565d6cdfa9)
-
 Las cosas que se rescatan de este video son:
 
-* Value input VS. value output
-* ¿Qué es lo que realmente desea el cliente?
-* Hacer un "user activity cycle", en lugar de solo enfocarse en el 
-	"customer journey"
-* Crear una experiencia integrada, en lugar de enfocarnos en la 
-	industria de silo
+* Value input VS. value output.
+* Para generar valor en los usuarios que atendemos, 
+es necesario entender que representa nuestro producto en sus vidas.
+* En el caso de Nike es importante recalcar que su estrategia fue 
+romper con los silos de su negocio para hacer un producto que se enmarca en su value output.
+
+## Videos
+[¿En qué espacio de mercado te encuentras?](https://www.useloom.com/share/cde507e3a27544c99696fc565d6cdfa9)
