@@ -1,7 +1,6 @@
 # Marshmallow Challenge
 
-* Tipo: `presentación`
-* Formato: `self-paced`
+* Tipo: `pdinámica`
 * Duración: `30min`
 
 ***
