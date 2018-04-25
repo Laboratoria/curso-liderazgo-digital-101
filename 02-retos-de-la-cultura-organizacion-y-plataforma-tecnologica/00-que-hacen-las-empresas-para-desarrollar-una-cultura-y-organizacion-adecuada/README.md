@@ -17,6 +17,6 @@ En esta sección cubriremos los siguientes temas:
 En esta sección hablaremos de "Cultura fail-friendly", y "Mentalidad agile".
 
 ## Videos
-* [C'omo explicamos este módulo](https://www.useloom.com/share/bda80513b72d4aff80382be30334d822)
+* [¿Cómo explicamos este módulo?](https://www.useloom.com/share/bda80513b72d4aff80382be30334d822)
 * [Cultura : Parte 1](https://www.useloom.com/share/90102cf63263435faa7f867c1e9c2d33)
 * [Cultura : Parte 2](https://www.useloom.com/share/9829eb5e520a4ee69e2b915f2d388e30)
