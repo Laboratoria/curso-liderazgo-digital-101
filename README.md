@@ -44,7 +44,6 @@ aumentar tu base de clientes.
 
 - [Espacios de mercado](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/00-espacio-de-mercado)
 - [Creencias dañinas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/01-creencias-daninas)
-- [Talento del futuro](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/02-talento-del-futuro)
 - [Transformación Digital y Metodologías](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/03-transformacion-digital-y-metodologias)
 - [Lean Startup: creando productos y servicios en el mundo digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/04-lean)
 - [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/05-las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
