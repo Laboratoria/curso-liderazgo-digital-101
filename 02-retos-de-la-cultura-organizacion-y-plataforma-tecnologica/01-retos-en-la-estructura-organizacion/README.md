@@ -21,7 +21,8 @@ En esta sección cubriremos los siguientes temas:
 * Caso Laboratoria	
 
 ## Videos
-[Estructura organizacional](https://www.useloom.com/share/6bffe7230e984a729dbf284e1d236d2f)
+* [¿Cómo explicamos este módulo?](https://www.useloom.com/share/f7b62b653994467fbd1f73110d1ebc4a)
+* [Estructura organizacional](https://www.useloom.com/share/6bffe7230e984a729dbf284e1d236d2f)
 
 
 
