@@ -12,16 +12,11 @@ Usa este [link](https://docs.google.com/presentation/d/1i755qNTKcrkLanShZXibo0XS
 ## Contenido
 En esta sección cubriremos los siguientes temas:
 
-* Los Proyectos tienen un inicio y un fin que está bien 
-	especificado.
-* Los Productos Siempre está buscando lograr proveer el 
-	mayor valor posible para sus usuarios.
-* Los Productos son liderados por un Product Manager, que 
-	tiene un rol integral y es como un mini-ceo.
-* Los proyectos usan una metodología de cascada en donde 
-	es posible que otro equipos intervengan en el proceso.
-* Los productos usan metodologías cíclicas y tienen equipo 
-	dedicados, autónomos, independientes con control end-to-end
+* Diferencias entre Proyecto vs. Producto
+* Project Manager vs. Product Manager y el desarrollo de sus equipos
+* Diferencias de las metodologías en las dos iniciativas
+* El producto siempre está vivo
+* El equipo y sus funciones (bajo una visión de un producto digital)
 
 ## Videos
 [Productos vs Proyectos](https://www.useloom.com/share/ed9422dac0c444588ca6aebf48125045)
