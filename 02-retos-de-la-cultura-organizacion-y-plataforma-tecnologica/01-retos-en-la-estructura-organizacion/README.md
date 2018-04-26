@@ -22,7 +22,8 @@ En esta sección cubriremos los siguientes temas:
 * La estructura organizacional de Laboratoria bajo el ciclo de Lean	
 
 ## Videos
-* [¿Cómo explicamos este módulo?](https://www.useloom.com/share/f7b62b653994467fbd1f73110d1ebc4a)
+* [Explicación de la parte organizacional](https://www.useloom.com/share/f7b62b653994467fbd1f73110d1ebc4a)
+* [Lean en nuestra estructura organizacional](https://www.useloom.com/share/b30d33096a8643cebb7dd146cf5ddff3)
 * [Estructura organizacional](https://www.useloom.com/share/6bffe7230e984a729dbf284e1d236d2f)
 
 
