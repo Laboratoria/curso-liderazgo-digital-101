@@ -18,5 +18,5 @@ En esta sección cubriremos los siguientes temas:
 * Caso Fidor Bank	
 
 ## Videos
-[Plataforma tecnológica](https://www.useloom.com/share/575a2086864849f19ebbd4680fdd8f5e) HACER NUEVO VIDEO
+* [Plataforma tecnológica](https://www.useloom.com/share/575a2086864849f19ebbd4680fdd8f5e) HACER NUEVO VIDEO
 

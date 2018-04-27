@@ -17,4 +17,4 @@ Cómo realizar esta dinámica:
 5. El reto dura 18 minutos: Los equipos no pueden sujetar las estructuras cuando se cumpla el tiempo. Los que estén tocando o haciendo soporte a la estructura estarán descalificados.
 
 ## Video
-[Video para entenderlo] (https://vimeo.com/50850884)
+* [Video para entenderlo] (https://vimeo.com/50850884)

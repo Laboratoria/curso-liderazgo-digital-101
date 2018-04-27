@@ -19,7 +19,7 @@ iniciativa trabajas con certidumbre, pero cuando no la tienes es un
 proceso creativo para resolver el problema de la mejor manera
 
 ## Videos
-[Dinámica]()
+* [Dinámica]()
 
 
  

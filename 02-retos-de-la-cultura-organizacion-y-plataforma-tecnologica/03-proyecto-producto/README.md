@@ -20,8 +20,8 @@ En esta sección cubriremos los siguientes temas:
 * El equipo y sus funciones (bajo una visión de un producto digital)
 
 ## Videos
-[Productos vs Proyectos](https://www.useloom.com/share/ed9422dac0c444588ca6aebf48125045) HACER NUEVO VIDEO
-[Dinámica](https://www.useloom.com/share/ed9422dac0c444588ca6aebf48125045)
+* [Productos vs Proyectos](https://www.useloom.com/share/ed9422dac0c444588ca6aebf48125045) HACER NUEVO VIDEO
+* [Dinámica](https://www.useloom.com/share/ed9422dac0c444588ca6aebf48125045)
 
 
  
