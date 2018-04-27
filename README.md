@@ -51,7 +51,7 @@ aumentar tu base de clientes.
 
 **Dinámicas**
 1. [Marshmallow Challenge](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/dinamica-1-marshmallow-challenge)
-2. Define la Estrategias
+2. [Define la Estrategias](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/dinamica-2-define-la-estrategia)
 
 ### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
 
@@ -59,6 +59,10 @@ aumentar tu base de clientes.
 - [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/01-retos-en-la-estructura-organizacion) 
 - [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/02-retos-de-la-plataforma-tecnologica)
 - [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/mater/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/03-proyecto-producto)
+
+**Dinámicas**
+1. [Marshmallow Challenge](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/dinamica-1-marshmallow-challenge)
+
 
 ### Sesión 03: [Growth](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth)
 
