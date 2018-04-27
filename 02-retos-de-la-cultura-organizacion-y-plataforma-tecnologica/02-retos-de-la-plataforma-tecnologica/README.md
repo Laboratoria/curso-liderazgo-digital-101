@@ -12,10 +12,16 @@ Usa este [link](https://docs.google.com/presentation/d/19gGvRXE08W1R8kx9AXMf9iod
 ## Contenido
 En esta sección cubriremos los siguientes temas:
 
-* La plataforma tiene que poder proyectar las 4 estrategias.
-* APIs como una herramienta para poder crecer y desarrollar 
-	canales de democratización de información.
-* Caso Fidor Bank	
+* Legacy Platforms
+* Las 4 estrategias en el Legacy
+* Caso BBVA
+* Los APIS como una solución para adquirir las 4 estrategias
+* Qué es un API
+* Caso Netflix
+* Los APIs como un producto
+* Ejemplos de como los APIs pueden crear nuevos canales para el negocio
+* Caso Fidor Bank
+
 
 ## Videos
 * [Plataforma tecnológica](https://www.useloom.com/share/575a2086864849f19ebbd4680fdd8f5e) HACER NUEVO VIDEO
