@@ -61,7 +61,7 @@ aumentar tu base de clientes.
 - [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/mater/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/03-proyecto-producto)
 
 **Dinámicas**
-1. [Marshmallow Challenge](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/dinamica-1-marshmallow-challenge)
+1. [Dinámica Producto vs Proyecto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/dinamica-producto-vs-proyecto)
 
 
 ### Sesión 03: [Growth](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth)
