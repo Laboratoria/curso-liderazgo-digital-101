@@ -24,5 +24,5 @@ En esta sección cubriremos los siguientes temas:
 
 
 ## Videos
-* [Plataforma tecnológica](https://www.useloom.com/share/575a2086864849f19ebbd4680fdd8f5e) HACER NUEVO VIDEO
+* [Plataforma tecnológica](https://www.useloom.com/share/e6148d10b67e40a2ae465225477a646b)
 
