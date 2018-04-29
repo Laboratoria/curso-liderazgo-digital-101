@@ -68,8 +68,9 @@ aumentar tu base de clientes.
 
 - [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/metricas-vanidosas)
 - [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/etapas-de-crecimiento-de-un-producto-digital)
-- [Product Market-Fit](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/product-market-fit)
 - [¿Qué es growth hacking?](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/que-es-growth-hacking)
+- [Product Market-Fit](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/product-market-fit)
+- [Optimizando un Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/optimizando-un-producto)
 - [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/lean-analytics-framework)
 
 
