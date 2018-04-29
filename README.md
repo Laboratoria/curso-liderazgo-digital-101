@@ -58,7 +58,7 @@ aumentar tu base de clientes.
 - [Qué hacen las empresas para desarrollar una cultura y organización adecuada (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/que-hacen-las-empresas-para-desarrollar-una-cultura-y-organizacion-adecuada)
 - [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/retos-en-la-estructura-organizacion) 
 - [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/retos-de-la-plataforma-tecnologica)
-- [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/mater/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/proyecto-producto)
+- [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/proyecto-producto)
 
 **Dinámicas**
 1. [Dinámica Producto vs Proyecto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/dinamica-producto-vs-proyecto)
