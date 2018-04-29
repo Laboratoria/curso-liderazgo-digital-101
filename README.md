@@ -40,18 +40,18 @@ aumentar tu base de clientes.
 
 ## Syllabus
 
-### Sesión 01: [Assessing the Landscape](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape)
-- [Creencias dañinas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/creencias-daninas)
-- [Lean Startup: creando productos y servicios en el mundo digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/lean-desarrollando-productos-y-servicios)
-- [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
+### Sesión 01: [Assessing the Landscape](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape)
+- [Creencias dañinas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/creencias-daninas)
+- [Lean Startup: creando productos y servicios en el mundo digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/lean-desarrollando-productos-y-servicios)
+- [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
 
-### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
+### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
 - [Qué hacen las empresas para desarrollar una cultura y organización adecuada (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/que-hacen-las-empresas-para-desarrollar-una-cultura-y-organizacion-adecuada)
 - [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/retos-en-la-estructura-organizacion) 
 - [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/retos-de-la-plataforma-tecnologica)
 - [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/proyecto-producto)
 
-### Sesión 03: [Growth](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth)
+### Sesión 03: [Growth](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth)
 - [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/etapas-de-crecimiento-de-un-producto-digital)
 
 ***
