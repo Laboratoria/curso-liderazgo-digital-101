@@ -2,7 +2,7 @@
 
 * Tipo: `presentación`
 * Formato: `self-paced`
-* Duración: `15min`
+* Duración: `30min`
 
 ***
 
@@ -20,7 +20,7 @@ En esta sección cubriremos los siguientes temas:
 * El equipo y sus funciones (bajo una visión de un producto digital)
 
 ## Videos
-* [Productos vs Proyectos](https://www.useloom.com/share/ed9422dac0c444588ca6aebf48125045) HACER NUEVO VIDEO
+* [Productos vs Proyectos](https://www.useloom.com/share/9c42ba1a7af844aab01dc81aa9e002a1)
 * [Dinámica](https://www.useloom.com/share/ed9422dac0c444588ca6aebf48125045)
 
 
