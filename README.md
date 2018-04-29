@@ -46,10 +46,10 @@ aumentar tu base de clientes.
 - [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/04-las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
 
 ### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
-- [Qué hacen las empresas para desarrollar una cultura y organización adecuada (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/00-retos-de-la-cultura)
-- [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/01-retos-en-la-estructura-organizacion) 
-- [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/02-retos-de-la-plataforma-tecnologica)
-- [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/mater/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/03-proyecto-producto)
+- [Qué hacen las empresas para desarrollar una cultura y organización adecuada (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/00-que-hacen-las-empresas-para-desarrollar-una-cultura-y-organizacion-adecuada)
+- [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/01-retos-en-la-estructura-organizacion) 
+- [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/02-retos-de-la-plataforma-tecnologica)
+- [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/03-proyecto-producto)
 
 ### Sesión 03: [Growth](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth)
 - [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/03-etapas-de-crecimiento-de-un-producto-digital)
