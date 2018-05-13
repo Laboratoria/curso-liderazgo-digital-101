@@ -20,6 +20,11 @@ En esta sección cubriremos los siguientes temas:
 	(Lean Startup).
 * Cómo está dividida la estructura organizacional de Laboratoria
 * La estructura organizacional de Laboratoria bajo el ciclo de Lean	
+* Talento del futuro y las tendencias que lo influencian
+* Cinco generaciones trabajando en conjunto
+* ¿Cómo es el perfil del trabajador del futuro?
+* Cómo se conecta el talento con la satisfacción de los clientes.
+
 
 ## Videos
 * [Explicación de la parte organizacional](https://www.useloom.com/share/f7b62b653994467fbd1f73110d1ebc4a)
