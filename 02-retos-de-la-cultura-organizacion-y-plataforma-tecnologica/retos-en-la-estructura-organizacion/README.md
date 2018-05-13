@@ -31,5 +31,12 @@ En esta sección cubriremos los siguientes temas:
 * [Lean en nuestra estructura organizacional](https://www.useloom.com/share/b30d33096a8643cebb7dd146cf5ddff3)
 * [Estructura organizacional](https://www.useloom.com/share/6bffe7230e984a729dbf284e1d236d2f)
 
+## Artículos para leer
+* [How Spotify Balances Employee Autonomy and Accountability](https://hbr.org/2017/02/how-spotify-balances-employee-autonomy-and-accountability)
+* [How Our Product Team Works](https://www.hudl.com/bits/how-our-product-team-works)
+* [The Future Of Work - Just A Millennial Thing?](https://www.forbes.com/sites/jacobmorgan/2015/02/09/future-of-work-millennials-jacob-morgan/#745368c97ebd)
+* [The 5 Trends Shaping The Future Of Work](https://www.forbes.com/sites/jacobmorgan/2015/02/27/the-5-trends-shaping-the-future-of-work/#6703e52830d6)
+
+
 
 
