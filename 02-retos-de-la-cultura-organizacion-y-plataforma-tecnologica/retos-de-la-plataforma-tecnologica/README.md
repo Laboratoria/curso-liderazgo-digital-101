@@ -26,3 +26,8 @@ En esta sección cubriremos los siguientes temas:
 ## Videos
 * [Plataforma tecnológica](https://www.useloom.com/share/e6148d10b67e40a2ae465225477a646b)
 
+## Artículos para leer
+* [How APIs Are Disrupting The Way We Think](https://nordicapis.com/how-apis-are-disrupting-the-way-we-think/)
+* [Envisioning The Entire API Lifecycle](https://nordicapis.com/envisioning-the-entire-api-lifecycle/)
+* [What Are APIs, And How Are Open APIs Changing The Internet](https://www.makeuseof.com/tag/api-good-technology-explained/)
+* [German bank Fidor launches in Britain](https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/11872292/German-bank-Fidor-launches-in-Britain.html)
