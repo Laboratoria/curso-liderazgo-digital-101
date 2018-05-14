@@ -32,6 +32,7 @@ En esta sección cubriremos los siguientes temas:
 * [Estructura organizacional](https://www.useloom.com/share/6bffe7230e984a729dbf284e1d236d2f)
 
 ## Artículos para leer
+* [Jeff Bezos's Productivity Tip? The '2 Pizza Rule'](https://www.inc.com/business-insider/jeff-bezos-productivity-tip-two-pizza-rule.html)
 * [How Spotify Balances Employee Autonomy and Accountability](https://hbr.org/2017/02/how-spotify-balances-employee-autonomy-and-accountability)
 * [How Our Product Team Works](https://www.hudl.com/bits/how-our-product-team-works)
 * [The Future Of Work - Just A Millennial Thing?](https://www.forbes.com/sites/jacobmorgan/2015/02/09/future-of-work-millennials-jacob-morgan/#745368c97ebd)
