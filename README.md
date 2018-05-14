@@ -67,9 +67,14 @@ aumentar tu base de clientes.
 ### Sesión 03: [Growth](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth)
 
 - [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/metricas-vanidosas)
-- [¿Qué es growth hacking?](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/que-es-growth-hacking)
 - [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/etapas-de-crecimiento-de-un-producto-digital)
+- [¿Qué es growth hacking?](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/que-es-growth-hacking)
+- [Product Market-Fit](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/product-market-fit)
+- [Optimizando un Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/optimizando-un-producto)
 - [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/lean-analytics-framework)
+
+
+
 
 ***
 
