@@ -37,6 +37,7 @@ En esta sección cubriremos los siguientes temas:
 * [How Our Product Team Works](https://www.hudl.com/bits/how-our-product-team-works)
 * [The Future Of Work - Just A Millennial Thing?](https://www.forbes.com/sites/jacobmorgan/2015/02/09/future-of-work-millennials-jacob-morgan/#745368c97ebd)
 * [The 5 Trends Shaping The Future Of Work](https://www.forbes.com/sites/jacobmorgan/2015/02/27/the-5-trends-shaping-the-future-of-work/#6703e52830d6)
+* [No Pain, No Brain Gain: Why Learning Demands (A Little) Discomfort](ttps://www.fastcompany.com/40560075/no-pain-no-brain-gain-why-learning-demands-a-little-discomfort?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=feedburner+fastcompany&utm_content=feedburner)
 
 
 
