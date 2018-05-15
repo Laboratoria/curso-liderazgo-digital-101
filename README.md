@@ -74,6 +74,8 @@ aumentar tu base de clientes.
 - [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/lean-analytics-framework)
 - [Crecimiento](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/crecimiento)
 
+**Dinámicas**
+1. [Dinámica Ciclo de Vida y Lean Analytics](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/dinamica-ciclo-de-vida-y-lean-analytics)
 
 
 ***

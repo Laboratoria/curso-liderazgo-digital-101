@@ -16,7 +16,7 @@ En esta sección cubriremos los siguientes temas:
 * Mitos y Realidad
 
 ## Videos
-[Crecimiento]()HACER VIDEO
+[Crecimiento]() HACER VIDEO
 
 
 
