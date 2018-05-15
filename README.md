@@ -72,6 +72,7 @@ aumentar tu base de clientes.
 - [Product Market-Fit](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/product-market-fit)
 - [Optimizando un Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/optimizando-un-producto)
 - [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/lean-analytics-framework)
+- [Crecimiento](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/crecimiento)
 
 
 
