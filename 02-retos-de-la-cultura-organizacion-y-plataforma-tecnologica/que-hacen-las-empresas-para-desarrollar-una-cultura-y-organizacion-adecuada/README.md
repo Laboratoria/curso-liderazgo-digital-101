@@ -24,4 +24,3 @@ En esta sección cubriremos los siguientes temas:
 ## Artículos para leer
 * [Caso NUMMI Toyota & General Motors](https://docs.google.com/presentation/d/1QHzCOS1epFKtMueoI8_4P5J6UFr5RuIeZEFSR-Gb18o/edit#slide=id.p)
 * [The End Of The Line For GM-Toyota Joint Venture](https://www.npr.org/templates/story/story.php?storyId=125229157)
-* [How to Change a Culture: Lessons From NUMMI](https://sloanreview.mit.edu/article/how-to-change-a-culture-lessons-from-nummi/)
