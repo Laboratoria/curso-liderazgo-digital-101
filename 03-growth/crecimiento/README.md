@@ -16,7 +16,7 @@ En esta sección cubriremos los siguientes temas:
 * Mitos y Realidad
 
 ## Videos
-[Crecimiento]() HACER VIDEO
+[Crecimiento](https://www.useloom.com/share/0215a0a2a9e641d28cc564cf905d5418)
 
 
 
