@@ -16,4 +16,4 @@ En esta sección cubriremos los siguientes temas:
 * Descripción de las etapasEtapas
 
 ## Videos
-- [Preparación para el crecimiento](https://www.useloom.com/share/49981de01b884e9096eece617627be58) HACER VIDEO
+- [Preparación para el crecimiento](https://www.useloom.com/share/7b7690bcebc24e00b2b8708c2284dc9f)
