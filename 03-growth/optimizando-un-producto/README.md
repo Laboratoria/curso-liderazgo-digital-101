@@ -19,5 +19,8 @@ En esta sección cubriremos los siguientes temas:
 
 
 ## Videos
-- [Video](https://www.useloom.com/share/80434aa1152c45c29e16e9b0a3669e2e) HACER VIDEO
+- [Video de descripción del funnel](https://www.useloom.com/share/dabcdc1789374cea928fb8fa2cd369a8)
 
+## Artículos para Leer
+- [Métricas para piratas (¡AARRR!)](http://www.analiticaweb.es/metricas-para-piratas-aarrr/)
+- [AARRR! Métricas Pirata para medir tu crecimiento](https://collectiveacademy.co/blog/aceleracion-profesional/aarrr-metricas-pirata-para-medir-tu-crecimiento/)
