@@ -18,6 +18,7 @@ En esta sección cubriremos los siguientes temas:
 * Cuál es el perfil
 
 ## Videos
-- [¿Qué es Growth Hacking?](https://www.useloom.com/share/969758b2021647448bf62157e1ffc37c) HACER VIDEO
+- [¿Qué es Growth Hacking?](https://www.useloom.com/share/32c5a339192243c48f9bc9c8eb878c3f)
 
-
+## Artículos para leer
+- [Growth Hacking](https://www.quicksprout.com/the-definitive-guide-to-growth-hacking-chapter-1/)
