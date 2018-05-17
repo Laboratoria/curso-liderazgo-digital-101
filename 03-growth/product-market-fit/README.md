@@ -19,5 +19,9 @@ En esta sección cubriremos los siguientes temas:
 
 
 ## Videos
-- [Primera etapa: Product Market Fit](https://www.useloom.com/share/80434aa1152c45c29e16e9b0a3669e2e) HACER VIDEO
+- [Primera etapa: Product Market Fit](https://www.useloom.com/share/8ef58e22993e490193a68feb38e420aa)
 
+
+## Artículos para leer
+- [Product/Market Fit: What it really means, How to Measure it, and Where to find it](https://medium.com/evergreen-business-weekly/product-market-fit-what-it-really-means-how-to-measure-it-and-where-to-find-it-70e746be907b)
+- [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
