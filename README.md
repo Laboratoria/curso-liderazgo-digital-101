@@ -72,8 +72,11 @@ aumentar tu base de clientes.
 - [Product Market-Fit](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/product-market-fit)
 - [Optimizando un Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/optimizando-un-producto)
 - [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/lean-analytics-framework)
+- [Crecimiento](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/crecimiento)
 
 
+**Dinámicas**
+1. [Dinámica Ciclo de Vida y Lean Analytics](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/dinamica-ciclo-de-vida-y-lean-analytics)
 
 
 ***
