@@ -18,7 +18,11 @@ Los estudiantes tendrán que dividirse en grupos y seguir las instrucciones para
 * Definir las métricas relevantes en cada nivel
 
 ## Videos
-[Dinámica]() HACER VIDEO
+- [Video 1](https://github.com/Laboratoria/curso-liderazgo-digital-101/blob/udechile/03-growth/dinamica-ciclo-de-vida-y-lean-analytics/1-dinamica.mp4)
+- [Video 2](https://github.com/Laboratoria/curso-liderazgo-digital-101/blob/udechile/03-growth/dinamica-ciclo-de-vida-y-lean-analytics/2-dinamica.mp4)
+- [Video 3](https://github.com/Laboratoria/curso-liderazgo-digital-101/blob/udechile/03-growth/dinamica-ciclo-de-vida-y-lean-analytics/3-dinamica.mp4)
+- [Video 4](https://github.com/Laboratoria/curso-liderazgo-digital-101/blob/udechile/03-growth/dinamica-ciclo-de-vida-y-lean-analytics/4-dinamica.mp4)
+- [Video 5](https://github.com/Laboratoria/curso-liderazgo-digital-101/blob/udechile/03-growth/dinamica-ciclo-de-vida-y-lean-analytics/5-dinamica.mp4)
 
 
 
