@@ -7,7 +7,7 @@
 ***
 
 ## Presentación
-Usa este [link](https://docs.google.com/presentation/d/1-SgVghogOwuE1FGAA7nnDpkdMMB5Y0kVZOaNMW2Eyng/edit#slide=id.g38113bfa8e_0_0) para acceder a las diapositívas.
+Usa este [link](https://drive.google.com/open?id=1hht7-cx4_M1b0oynXW3mZ71Cf-x2BfHwxalqvkefaLA) para acceder a las diapositivas.
 
 
 ## Contenido

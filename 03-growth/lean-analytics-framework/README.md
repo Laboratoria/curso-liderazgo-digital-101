@@ -7,7 +7,7 @@
 ***
 
 ## Presentación
-Usa este [link](https://docs.google.com/presentation/d/1DQf7ILkzCMIN61D9sioW2SGIcm2GZMhzBp_Tmoe1Jrw/edit#slide=id.g38c837ec1c_0_0) para acceder a las diapositivas.
+Usa este [link](https://drive.google.com/open?id=1I3GfVlr3AIUiivcEXnnI14SZYT8vMzxMU5uySRtWFYQ) para acceder a las diapositivas.
 
 ## Contenido
 En esta sección cubriremos los siguientes temas:
