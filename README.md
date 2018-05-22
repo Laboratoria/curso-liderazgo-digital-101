@@ -42,6 +42,7 @@ aumentar tu base de clientes.
 
 ### Sesión 01: [Assessing the Landscape](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape)
 
+- [Creencias Dañinas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/creencias-daninas)
 - [Espacios de mercado](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/espacio-de-mercado)
 - [Transformación Digital y Metodologías](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/transformacion-digital)
 - [Lean Startup: creando productos y servicios en el mundo digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/lean-desarrollando-productos-y-servicios)
@@ -60,6 +61,7 @@ aumentar tu base de clientes.
 ### Sesión 03: [Growth](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth)
 
 - [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/metricas-vanidosas)
+- [Qué es Growth Hacking](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/que-es-growth-hacking)
 - [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/etapas-de-crecimiento-de-un-producto-digital)
 - [Product Market-Fit](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/product-market-fit)
 - [Optimizando un Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/optimizando-un-producto)
