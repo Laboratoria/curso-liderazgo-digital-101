@@ -16,6 +16,8 @@ En esta sección cubriremos los siguientes temas:
 * La banca, tele-comunicaciónes y seguros, están en la 
 	parte alta de la curva. En estas industrias es 	donde se 
 	están generando grandes avances en desarrollo de productos innovadores. 
+* El resto de las industrias están recién empezando a generar conciencia 
+	y una estrategia para transformarse.
 
 ## Videos
 - [La curva de la innovación](https://www.useloom.com/share/0d9a2cfe1a724c2ea32e21ad3dedefd5)
