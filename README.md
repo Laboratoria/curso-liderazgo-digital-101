@@ -78,12 +78,12 @@ aumentar tu base de clientes.
 1. [Dinámica Ciclo de Vida y Lean Analytics](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/dinamica-ciclo-de-vida-y-lean-analytics)
 
 
-### Sesión 04: [Modelos de Transformación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/04-digital-transformation-structure)
+### Sesión 04: [Modelos de Transformación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure)
 
-- [Curva de Innovacion](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/04-digital-transformation-structure/curva-de-innovacion)
-- [Guía BCG](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/04-digital-transformation-structure/guia-bcg)
-- [Encuesta Liderazgo](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/04-digital-transformation-structure/encuesta-liderazgo)
-- [Modelos Transformación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/04-digital-transformation-structure/modelos-transformacion)
+- [Curva de Innovacion](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/curva-de-innovacion)
+- [Guía BCG](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/guia-bcg)
+- [Encuesta Liderazgo](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/encuesta-liderazgo)
+- [Modelos Transformación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/modelos-transformacion)
 
 ***
 
