@@ -1,17 +1,16 @@
 # Guía BCG
 
-* Tipo: `video`
+* Tipo: `presentación`
 * Formato: `self-paced`
-* Duración: `6min`
+* Duración: `15 min`
 
 ***
 
-Esta guía te mostrara una estrategia para iniciar la 
-transformación digital en una empresa paso a paso.
+## Presentación
+Usa este [link](https://docs.google.com/presentation/d/1JSJtBmwNpnn2S21ScHFx5kssT52Nede84Whnohth2Bg/edit#slide=id.g3ada50e64b_0_6) para acceder a las diapositivas.
 
-[Guía BCG](https://www.useloom.com/share/d9aaa0b73d5144afb4552c23e4ca082f)
-
-Las cosas que se rescatan de este video son:
+## Contenido
+En esta sección cubriremos los siguientes temas:
 
 * Iniciar el proceso con un "Quick Win"
 * Aprovechar el desarrollo del "Quick Win" para convertir 
@@ -19,3 +18,7 @@ Las cosas que se rescatan de este video son:
 	empresa.
 * Cuando el "Quick-Win" está en una etapa avanzada, replico 
 	uno nuevo para iniciar otro proceso.
+
+## Videos
+- [Guía BCG](https://www.useloom.com/share/d9aaa0b73d5144afb4552c23e4ca082f)
+
