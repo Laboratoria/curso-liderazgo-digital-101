@@ -85,6 +85,7 @@ aumentar tu base de clientes.
 - [Encuesta Liderazgo](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/encuesta-liderazgo)
 - [Modelos Transformación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/modelos-transformacion)
 - [Recap: Mensajes Importantes](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/recap)
+- [Encuesta](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/encuesta)
 
 ***
 
