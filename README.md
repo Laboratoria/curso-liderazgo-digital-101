@@ -79,6 +79,18 @@ aumentar tu base de clientes.
 1. [Dinámica Ciclo de Vida y Lean Analytics](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/dinamica-ciclo-de-vida-y-lean-analytics)
 
 
+### Sesión 04: [Modelos de Transformación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure)
+
+- [Curva de Innovacion](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/curva-de-innovacion)
+- [Guía BCG](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/guia-bcg)
+- [Encuesta Liderazgo](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/encuesta-liderazgo)
+- [Modelos Transformación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/modelos-transformacion)
+- [Recap: Mensajes Importantes](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/recap)
+- [Encuesta](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/encuesta)
+
+**Dinámica**
+1. [Dinámica definir estrategias](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/dinamica-estrategias)
+
 ***
 
 ## Facilitadores
