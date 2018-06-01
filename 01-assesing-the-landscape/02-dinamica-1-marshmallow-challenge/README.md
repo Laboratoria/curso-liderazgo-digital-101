@@ -8,7 +8,9 @@
 ## Presentación
 
 [Presentación](https://docs.google.com/presentation/d/e/2PACX-1vQVPsptdw24w6YC7RSPDrK1eNwkhhNeJ9ZTgxciOukXwEji31RysoC4c-uv1DnDvLE7CqzZu7yKQqIt/pub?start=false&loop=false&delayms=3000)
-<!-- Usa este [link](https://docs.google.com/presentation/d/1x9mBFeRXgTuoAcLkfWKA9CMX_2704ocZ1iWfFqagP0w/edit#slide=id.g38e9765181_0_212) para acceder a las diapositivas. -->
+
+Usa este [link](https://docs.google.com/presentation/d/1x9mBFeRXgTuoAcLkfWKA9CMX_2704ocZ1iWfFqagP0w/edit#slide=id.g38e9765181_0_212) 
+para acceder a las diapositivas.
 
 ## Contenido
 
