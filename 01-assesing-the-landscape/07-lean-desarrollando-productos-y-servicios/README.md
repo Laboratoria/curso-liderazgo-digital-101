@@ -7,7 +7,11 @@
 ***
 
 ## Presentación
-Usa este [link](https://docs.google.com/presentation/d/1eds-3eyTIBPaDAKhQhxf9n63mPhulgByfjMAgNx1cWk/edit#slide=id.g36619f1cd5_0_32) para acceder a las diapositivas.
+
+[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vT4xVr12eI9Bi0BJdsDhkEjuVME-GM1TYwdbWaCKn4qdYe9dskXYWsV4I4sWMdbs9LhsrjgvxfZxc6D/pub?start=false&loop=false&delayms=3000)
+
+Usa este [link](https://docs.google.com/presentation/d/1eds-3eyTIBPaDAKhQhxf9n63mPhulgByfjMAgNx1cWk/edit#slide=id.g36619f1cd5_0_32)
+para acceder a las diapositivas.
 
 ## Contenido
 En esta sección cubriremos los siguientes temas:
