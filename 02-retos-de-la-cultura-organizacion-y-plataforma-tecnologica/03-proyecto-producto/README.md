@@ -8,6 +8,8 @@
 
 ## Presentación
 
+[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vTGUamf5ihUNtBB_zB4OVKZp4uiJxZiDQHhbByG3UN0R0oXI1CLq75Qk8ETkHAUynyjiBBOntXiSJcl/pub?start=false&loop=false&delayms=3000)
+
 Usa este [link](https://docs.google.com/presentation/d/1i755qNTKcrkLanShZXibo0XSsa4y1iELL4brDX2sGng/edit#slide=id.g3706d83abc_0_29)
 para acceder a las diapositivas.
 
