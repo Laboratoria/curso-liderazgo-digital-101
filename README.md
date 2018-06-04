@@ -10,7 +10,7 @@ y el impacto de ellas en cualquier rol de un equipo de producto.
 ## Público objetivo
 
 Estudiantes, emprendedores, developers, diseñadores que se están empezando
-su vida profesional y necesitan tener referencias de de como funcionan las 
+su vida profesional y necesitan tener referencias de de como funcionan las
 empresas en la era digital.
 
 ## Requerimientos previos
@@ -19,19 +19,19 @@ No se necesitan conocimientos previos para tomar este workshop.
 
 ## Aprenderás
 
-**1. Agile Mindset**
+### 1. Agile Mindset
 
 Sabrás cómo interactuar con una cultura ágil, donde el error está permitido para
 aprender de manera rápida, fácil y barata. Además, conocerás la importancia
 de organizarse en equipos multidisciplinarios, autónomos e independientes.
 
-**2. Lean Product Management**
+### 2. Lean Product Management
 
 Tendrás un entendimiento general de las etapas, el equipo y los procesos
 para crear un producto digital en ambientes de alta incertidumbre; bajo el
 “feedback loop” de construir, medir y aprender.
 
-**3. Growth**
+### 3. Growth
 
 Entenderás cómo combinar técnicas de márketing tradicional con una obsesión
 por la analítica, el código y la experimentación para atraer, retener y
@@ -48,20 +48,20 @@ aumentar tu base de clientes.
 * [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/05-las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
 * [Las 4 estrategias para ganar en digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/06-las-4-estrategias-para-ganar-en-digital)
 
-**Dinámicas**
+#### Dinámicasm para Assessing the Landscape
 
 1. [Marshmallow Challenge](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/07-dinamica-1-marshmallow-challenge)
 2. [Define la Estrategias](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/01-assesing-the-landscape/08-dinamica-2-define-la-estrategia)
 
-
 ### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
 
 * [Qué hacen las empresas para desarrollar una cultura y organización adecuada (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/01-que-hacen-las-empresas-para-desarrollar-una-cultura-y-organizacion-adecuada)
-* [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/02-retos-en-la-estructura-organizacion) 
+* [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/02-retos-en-la-estructura-organizacion)
 * [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/03-retos-de-la-plataforma-tecnologica)
 * [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/04-proyecto-producto)
 
-**Dinámicas**
+#### Dinámicas para retos de la cultura, organización y plataforma tecnológica
+
 1. [Dinámica Producto vs Proyecto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/05-dinamica-producto-vs-proyecto)
 
 ### Sesión 03: [Growth](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth)
@@ -74,7 +74,7 @@ aumentar tu base de clientes.
 * [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/06-lean-analytics-framework)
 * [Crecimiento](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/07-crecimiento)
 
-**Dinámicas**
+#### Dinámicas para Growth
 
 1. [Dinámica Ciclo de Vida y Lean Analytics](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/08-dinamica-ciclo-de-vida-y-lean-analytics)
 
@@ -87,7 +87,7 @@ aumentar tu base de clientes.
 * [Recap: Mensajes Importantes](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/04-digital-transformation-structure/05-recap)
 * [Encuesta](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/04-digital-transformation-structure/06-encuesta)
 
-**Dinámica**
+#### Dinámica para modelos de Transformación
 
 1. [Dinámica definir estrategias](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/master/03-growth/07-dinamica-estrategias)
 
@@ -144,4 +144,3 @@ aumentar tu base de clientes.
 ### Sesión 3
 
 * [The Definitive Guide to Growth Hacking](https://www.quicksprout.com/the-definitive-guide-to-growth-hacking-chapter-1/)
-
