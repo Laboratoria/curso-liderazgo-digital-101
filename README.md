@@ -42,53 +42,53 @@ aumentar tu base de clientes.
 
 ### Sesión 01: [Assessing the Landscape](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape)
 
-- [Espacios de mercado](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/espacio-de-mercado)
-- [Creencias dañinas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/creencias-daninas)
-- [Transformación Digital y Metodologías](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/transformacion-digital)
-- [Lean Startup: creando productos y servicios en el mundo digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/lean-desarrollando-productos-y-servicios)
-- [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
-- [Las 4 estrategias para ganar en digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/las-4-estrategias-para-ganar-en-digital)
+- [Espacios de mercado](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/01-espacio-de-mercado)
+- [Creencias dañinas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/02-creencias-daninas)
+- [Transformación Digital y Metodologías](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/03-transformacion-digital)
+- [Lean Startup: creando productos y servicios en el mundo digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/04-lean-desarrollando-productos-y-servicios)
+- [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/05-las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
+- [Las 4 estrategias para ganar en digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/06-las-4-estrategias-para-ganar-en-digital)
 
 **Dinámicas**
-1. [Marshmallow Challenge](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/dinamica-1-marshmallow-challenge)
-2. [Define la Estrategias](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/dinamica-2-define-la-estrategia)
+1. [Marshmallow Challenge](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/07-dinamica-1-marshmallow-challenge)
+2. [Define la Estrategias](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/01-assesing-the-landscape/08-dinamica-2-define-la-estrategia)
 
 ### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
 
-- [Qué hacen las empresas para desarrollar una cultura y organización adecuada (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/que-hacen-las-empresas-para-desarrollar-una-cultura-y-organizacion-adecuada)
-- [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/retos-en-la-estructura-organizacion) 
-- [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/retos-de-la-plataforma-tecnologica)
-- [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/proyecto-producto)
+- [Qué hacen las empresas para desarrollar una cultura y organización adecuada (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/01-que-hacen-las-empresas-para-desarrollar-una-cultura-y-organizacion-adecuada)
+- [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/02-retos-en-la-estructura-organizacion) 
+- [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/03-retos-de-la-plataforma-tecnologica)
+- [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/04-proyecto-producto)
 
 **Dinámicas**
-1. [Dinámica Producto vs Proyecto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/dinamica-producto-vs-proyecto)
+1. [Dinámica Producto vs Proyecto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/05-dinamica-producto-vs-proyecto)
 
 
 ### Sesión 03: [Growth](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth)
 
-- [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/metricas-vanidosas)
-- [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/etapas-de-crecimiento-de-un-producto-digital)
-- [¿Qué es growth hacking?](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/que-es-growth-hacking)
-- [Product Market-Fit](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/product-market-fit)
-- [Optimizando un Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/optimizando-un-producto)
-- [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/lean-analytics-framework)
-- [Crecimiento](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/crecimiento)
+- [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/01-metricas-vanidosas)
+- [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/02-etapas-de-crecimiento-de-un-producto-digital)
+- [¿Qué es growth hacking?](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/03-que-es-growth-hacking)
+- [Product Market-Fit](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/04-product-market-fit)
+- [Optimizando un Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/05-optimizando-un-producto)
+- [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/06-lean-analytics-framework)
+- [Crecimiento](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/07-crecimiento)
 
 **Dinámicas**
-1. [Dinámica Ciclo de Vida y Lean Analytics](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/dinamica-ciclo-de-vida-y-lean-analytics)
+1. [Dinámica Ciclo de Vida y Lean Analytics](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/08-dinamica-ciclo-de-vida-y-lean-analytics)
 
 
 ### Sesión 04: [Modelos de Transformación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure)
 
-- [Curva de Innovacion](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/curva-de-innovacion)
-- [Guía BCG](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/guia-bcg)
-- [Encuesta Liderazgo](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/encuesta-liderazgo)
-- [Modelos Transformación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/modelos-transformacion)
-- [Recap: Mensajes Importantes](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/recap)
-- [Encuesta](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/encuesta)
+- [Curva de Innovacion](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/01-curva-de-innovacion)
+- [Guía BCG](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/02-guia-bcg)
+- [Encuesta Liderazgo](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/03-encuesta-liderazgo)
+- [Modelos Transformación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/04-modelos-transformacion)
+- [Recap: Mensajes Importantes](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/05-recap)
+- [Encuesta](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/04-digital-transformation-structure/06-encuesta)
 
 **Dinámica**
-1. [Dinámica definir estrategias](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/dinamica-estrategias)
+1. [Dinámica definir estrategias](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/udechile/03-growth/07-dinamica-estrategias)
 
 ***
 
