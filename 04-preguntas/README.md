@@ -97,7 +97,7 @@
   conexión a través de los canales que hay en el Internet.
 
 **14. Las expectativas de los usuarios crecen en digital bajo qué visión?**
- 
+
 * Quieren experiencias amigables, integradas y consistentes entre los canales.
 * Solo quieren usar productos digitales porque son más sencillos de usar.
 * Prefieren usar productos/servicios que tienen un buen diseño de experiencia
@@ -170,7 +170,7 @@
   productos/servicios.
 * Hace que TI deje de ser un proveedor de servicios en la empresa, y se
   convierta en un motor de la innovación como el responsable de la
-  democratización de la información. 
+  democratización de la información.
 
 **24. Cuál de estas no es una característica del producto**
 

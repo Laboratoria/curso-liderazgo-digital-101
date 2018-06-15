@@ -38,6 +38,10 @@ Entenderás cómo combinar técnicas de márketing tradicional con una obsesión
 por la analítica, el código y la experimentación para atraer, retener y
 aumentar tu base de clientes.
 
+**4. Preguntas**
+
+Set de preguntas de [evaluación](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/04-preguntas/).
+
 ## Syllabus
 
 ### Sesión 01: [Assessing the Landscape](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape)
