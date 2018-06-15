@@ -42,30 +42,30 @@ aumentar tu base de clientes.
 
 ### Sesión 01: [Assessing the Landscape](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape)
 
-- [Creencias Dañinas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/creencias-daninas)
-- [Espacios de mercado](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/espacio-de-mercado)
-- [Transformación Digital y Metodologías](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/transformacion-digital)
-- [Lean Startup: creando productos y servicios en el mundo digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/lean-desarrollando-productos-y-servicios)
-- [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
-- [Las 4 estrategias para ganar en digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/las-4-estrategias-para-ganar-en-digital)
+- [Creencias Dañinas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/01-creencias-daninas)
+- [Espacios de mercado](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/02-espacio-de-mercado)
+- [Transformación Digital y Metodologías](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/03-transformacion-digital)
+- [Lean Startup: creando productos y servicios en el mundo digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/04-lean-desarrollando-productos-y-servicios)
+- [Las razones que hacen a digital un gran plataforma para innovar](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/05-las-razones-que-hacen-a-digital-un-gran-plataforma-para-innovar)
+- [Las 4 estrategias para ganar en digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/01-assesing-the-landscape/06-las-4-estrategias-para-ganar-en-digital)
 
 ### Sesión 02: [Retos de la cultura, organización y plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica)
 
-- [Retos de la Cultura (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/que-hacen-las-empresas-para-desarrollar-una-cultura-y-organizacion-adecuada)
-- [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/retos-en-la-estructura-organizacion) 
-- [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/retos-de-la-plataforma-tecnologica)
-- [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/proyecto-producto)
+- [Retos de la Cultura (Caso Spotify)](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/01-que-hacen-las-empresas-para-desarrollar-una-cultura-y-organizacion-adecuada)
+- [Retos en la estructura organizacional](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/02-retos-en-la-estructura-organizacion) 
+- [Retos de la plataforma tecnológica](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/03-retos-de-la-plataforma-tecnologica)
+- [Proyecto vs. Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/02-retos-de-la-cultura-organizacion-y-plataforma-tecnologica/04-proyecto-producto)
 
 
 
 ### Sesión 03: [Growth](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth)
 
-- [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/metricas-vanidosas)
-- [Qué es Growth Hacking](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/que-es-growth-hacking)
-- [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/etapas-de-crecimiento-de-un-producto-digital)
-- [Product Market-Fit](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/product-market-fit)
-- [Optimizando un Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/optimizando-un-producto)
-- [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/lean-analytics-framework)
+- [Métricas vanidosas](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/01-metricas-vanidosas)
+- [Qué es Growth Hacking](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/02-que-es-growth-hacking)
+- [Etapas de crecimiento de un producto digital](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/03-etapas-de-crecimiento-de-un-producto-digital)
+- [Product Market-Fit](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/04-product-market-fit)
+- [Optimizando un Producto](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/05-optimizando-un-producto)
+- [Lean Analytics Framework](https://github.com/Laboratoria/curso-liderazgo-digital-101/tree/platzi/03-growth/06-lean-analytics-framework)
 
 ***
 
